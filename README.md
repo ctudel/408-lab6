@@ -1,29 +1,20 @@
-# Web Dev Starter Code
+# Lab 6
 
 ## Overview
 
-TODO: Write a project description
+This project is to get hands on practice with more advanced styling in CSS along with practicing simple javascript for a DOM object.
+
+## Running and Usage
+
+1. Open the index.html file in your favorite text editor or IDE.
+2. Run your preferred live server to view the html file.
+   - i.e. VSCode Live Server or Live Preview plugin, IntelliJ IDE plugin, Vim plugin, etc.
+3. View the content in your preferred browser for full functionality.
 
 ## Sources and Credits
-
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
-
-A simple bulleted list below is sufficient. For example:
 
 - Pet by Sophia: <https://thenounproject.com/browse/icons/term/pet/>
 - AI Gen Art: <https://openart.ai/>
 - Submit Form Custom Function: <https://www.w3schools.com/jsref/event_onsubmit.asp>
-- Changing style using JS: <https://www.w3schools.com/jsref/prop_style_display.asp>
-
-- Bootstrap: <https://getbootstrap.com/>
-- jQuery: <https://jquery.com/>
-- Background image: <https://unsplash.com/photos/>...
-- Sound effects: <https://freesound.org/people/>...
-- Icons: <https://fontawesome.com/>
-- Fonts: <https://fonts.google.com/>
-- etc.
+- Changing styles using JS: <https://www.w3schools.com/jsref/prop_style_display.asp>
+- Field Set for Accessibility: <https://developer.mozilla.org/en-US/docs/Web/HTML/Element/fieldset>
