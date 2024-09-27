@@ -15,10 +15,15 @@ permission from your instructor.
 
 A simple bulleted list below is sufficient. For example:
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
+- Pet by Sophia: <https://thenounproject.com/browse/icons/term/pet/>
+- AI Gen Art: <https://openart.ai/>
+- Submit Form Custom Function: <https://www.w3schools.com/jsref/event_onsubmit.asp>
+- Changing style using JS: <https://www.w3schools.com/jsref/prop_style_display.asp>
+
+- Bootstrap: <https://getbootstrap.com/>
+- jQuery: <https://jquery.com/>
+- Background image: <https://unsplash.com/photos/>...
+- Sound effects: <https://freesound.org/people/>...
+- Icons: <https://fontawesome.com/>
+- Fonts: <https://fonts.google.com/>
 - etc.
