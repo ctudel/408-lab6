@@ -9,7 +9,7 @@ This project is to get hands on practice with more advanced styling in CSS along
 1. Open the index.html file in your favorite text editor or IDE.
 2. Run your preferred live server to view the html file.
    - i.e. VSCode Live Server or Live Preview plugin, IntelliJ IDE plugin, Vim plugin, etc.
-3. View the content in your preferred browser for full functionality.
+3. View the content in your preferred browser for full `alert` functionality.
 
 ## Sources and Credits
 
