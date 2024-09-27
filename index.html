@@ -11,10 +11,12 @@
       <header>
         <h1>Awesome<br>Company</h1>
       </header>
-      <h2>The Quirky Charm of Unusual Pets</h2>
+
       <!--Main section heading-->
+      <div class="pet-container" id="pet-container"></div>
+      <h2>The Quirky Charm of Unusual Pets</h2>
       <p><em>Sometimes, all we need is a quiryk friend...</em></p>
-      <hr style="border: 1px #555 solid">
+      <div class="line"></div>
 
       <!--Content grid-->
       <div class="main-grid">
@@ -35,25 +37,29 @@
           <h3>Building a Community</h3>
           <p>The rise of exotic pets has also led to vibrant communities of enthusiasts. Online forums and social media groups allow owners to share tips, experiences, and adorable photos. Pet conventions and meet-ups are becoming popular, where people can showcase their unusual companions and connect with fellow animal lovers. This sense of community makes owning an exotic pet even more rewarding and fun!</p>
 
-          <!--Responsive actions-->
+          <!--Responsive Actions-->
           <div>
             <form>
-              <label for="dog">Dog</label>
-              <input type=radio name="dog"
-              <label for="cat">Cat</label>
-              <input type=radio name="cat"/>
-              <label for="penguin">Penguin</label>
-              <input type=radio name="penguin"/>
-              <label for="reptile">Reptile</label>
-              <input type=radio name="reptile"/>
+              <input type=radio id="dog" name="pet" value="dog"/>
+              <label id="dog" for="dog">Dog</label>
+
+              <input type=radio id="cat" name="pet" value="cat"/>
+              <label id="cat" for="cat">Cat</label>
+
+              <input type=radio id="penguin" name="pet" value="penguin"/>
+              <label id="penguin" for="penguin">Penguin</label>
+
+              <input type=radio id="reptile" name="pet" value="reptile"/>
+              <label id="reptile" for="reptile">Reptile</label>
+
+              <input id="submit" type="submit" value="Generate Your Pet"/>
             </form>
           </div>
-
         </div>
-      </div>
+      </div><!--End of grid-->
       <footer>
         <address>
-          <p>the awesome company</p>
+          <p>The Awesome Company</p>
           <p>102-112 frail bend bridge<br>
             the dwindlings<br>
             little hornet<br>
@@ -63,5 +69,6 @@
       </footer>
     </article>
 
+    <script src="js/main.js"></script>
   </body>
 </html>
